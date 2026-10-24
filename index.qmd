@@ -1,0 +1,10 @@
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+This book is organized into parts, and each part contains several chapters. Use the menu on the left to move between them. Click a part title to expand or collapse its chapters, and click any chapter to open it. The outline on the right lists the sections of the page you are reading, so you can jump straight to a topic, and the Previous and Next links at the bottom of each page take you through the chapters in order.
+
+To find a specific term or topic, click the magnifying glass at the top of the left menu and type your search. Results come from every chapter in the book, so it is a quick way to locate a definition, formula, or example without paging through the whole text. The book is read online and is updated as the course develops, so check back for the latest version.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+

@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: "Bison Asset Management"
+  author: "Chris Barker"
+  date: "10/24/2026"
+  site-url: "https://clb18.github.io/Bison_Asset_Management"
+  repo-url: "https://github.com/clb18/Bison_Asset_Management"
+  search: true
+  
+  chapters:
+    - index.qmd
+    - part: "First part"
+      chapters:
+      - chapters/01_First_chapter.qmd
+      - chapters/02_Second_chapter.qmd
+#      - chapters/03_Third_chapter.qmd
+#    - part: "Second part"  
+#      - chapters/04_Fourth_chapter.qmd
+      
+    - intro.qmd
+    - summary.qmd
+    
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  docx: default
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
